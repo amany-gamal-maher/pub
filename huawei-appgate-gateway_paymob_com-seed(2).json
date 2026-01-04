@@ -1,0 +1,104 @@
+{
+  "type": "joinCollective",
+  "pki": {
+    "caCertificate": "MIIFIDCCAwigAwIBAgIGAYuuA1r4MA0GCSqGSIb3DQEBDQUAMBkxFzAVBgNVBAMMDkFwcGdhdGUgU0RQIENBMB4XDTIzMTEwNzA4MTg1N1oXDTMzMTEwNDA4MTg1N1owGTEXMBUGA1UEAwwOQXBwZ2F0ZSBTRFAgQ0EwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDxom+WmgAryghUtvlmnI2gYJ03dI04qPhMo210gboCEF/MS54+Oi6yQwSGmDxXcyy8+GZI97epY5AA1FLJ0yQZmMjdpAQtTrfpdmtAGRQ3W3qfWgOTucIaGTHaRWUG2qK3trtGKPrX/51jt9SpKDUETi/61k9m/187h9acalV+m+qr7AmZsCAtq9cSDCw/q2PPyA60FD0Uf8kmqVIakPXke/8FpVcZD3XO/QHlgGdbBiQHnQXJFt1KVjP5FY9Kr8FgJ+c8dwCpBWGRwcTlf2TaIz278NEZpGqmOwYOKXSVhQnDJ0ah16/g7LqFCtkWBAW34GE+XsAuC9DDWSg0axS2ULypPNPRZVV9YM2A6wS+kFfzbilZMdNpSbW5QerDGMG2KB46pkEeIGvhUF4/c9nCqOJd8fs6fKtRKnEpID1M4FXmyL26yQqxMlLAAMtU2Xt+kGVkupFVpRDuui4IqIsgaK0HEmBIllQfpVoOaGzKY4BLaVMUbFF2fmENE9nDNu/I1KvlW1MWpttuBHiZ2GVavgPWxjQWJDY8IhvBE1XUky1i4xDsVoKLfQA1TeukUPwbQb7thhFVSdxAZ9Rsq/8FjOgkQ58oac+vy/AzRf+Tkrdsxi6b0kJ5vxWRz+Mk0AfZ9D7TCaZu8ZklsFy1h4WxFj4pZ/NsGtp+rPVn9VqovwIDAQABo24wbDAnBgNVHSUEIDAeBggrBgEFBQcDAgYIKwYBBQUHAwEGCCsGAQUFBwMJMA4GA1UdDwEB/wQEAwIBhjASBgNVHRMBAf8ECDAGAQH/AgEAMB0GA1UdDgQWBBQLVzbPytT7BaWKdpQ/ZsMdjFgEqjANBgkqhkiG9w0BAQ0FAAOCAgEAnWAGbbc7Ifo8KtXPtqE7Qpe+InWE0UnrHlJTX+V62SCnJr7Igf2yZl8QkpVRr7SZ37UYD8E6Y+NVMSSlpHh+N26qsCy7wEX5Fnl4kgHeuzYeQAcmxbay9hABbs1QlzfwzDaEhhNnmf7I3FVGbbxY5kCjU0P3H8Ay6t3nGol7s6tELNyW4WQECnEUHq9khJNh0vCRN8viktapHaFHutGiJjy7Ttj1nImui1ZGIw0mXQEp1zwjeNP8vcccvz72mNRQkiJJOL6x5jPwt8/qrAoYvbfgcAA9cVzbDsl1wfvH8htjwgKSfB4Or+E6EaD//rFiGbxysQDsfCifVyztLcloJQrceYJQXpvdL6VyjWnurw/rRMFAgbmZnsHmwmaCOPTzbzKRTcf+hZ+x9SjMfAZskWAHF8XM+aRO1TupqWMLf0VjlDEEZv1j0okA2zbmXVkrgzjh7CA3N+bpc+0oW8qlPVrDkgfFhHTxgx2V80J+Ki3n1g+lm900r7X/5EJgoSxRB3O87axd4s9UiOZ6HGsf6SMtJWC+6IA2IiOr5OtN/pNQO7C4/pokdZ+YJtp6SyMy0nV0yxfJq5rEsWCJgCAUw4ggCkE9kfya51Jj2ouOresJ/8k6CryrVJcdzLDpqfXA1OEBXChntOrDJopQ1omUNaQADfC95Gze+VflVlwlu4U=",
+    "temporaryApplianceCertificate": "MIIFTDCCAzSgAwIBAgIGAZuJEvcfMA0GCSqGSIb3DQEBDQUAMBkxFzAVBgNVBAMMDkFwcGdhdGUgU0RQIENBMB4XDTI2MDEwNDEyNTQzMFoXDTI2MDExNDEyNTQzMFowGDEWMBQGA1UEAwwNMTAxLjQ2LjY4LjE2NjCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALUb2Cu7j/0tPnQrt99JGdbmVI1RD5uW6rphrcbmjUpRkmfl17VScSbPRCzJNfXJKHCIVOa7zL6TaEtEgSvNea59xDtMdWlBFD33tuUW2WOzxf1mrSct1t2I+kaDFCsmuYOX4lIaBCVTmX/3drSpb6s+ZokIJwbidP6RBZGVcEmkng4MK9/9gOr+EGJbd9QFQwnNxJnmDX3jU+apsU6FlgERy/Rw0Ae4+D0aj1rWBOyKChm2DoW1z8ByvGK9HqcKeEPUSFY8bDva6urhmPP/sRZsUV+8yz5zs/CvQ1Y7rLpCgQtOeRHtnYBbvA5jISr7DgAAnPXIiBdXC6aD5FVnPJN9ia6whM9Yz8jHk3v88k/vJjQfespv145ZXexmuEu4j3jtVsnwY2LmVM/5RlCKjkgZXs9ArWmVdJ32+XbHf6YribFe3OpbQB6zHQ1demHRyUdXBKGepAlfkMVoGkrKb+BhuCsdTwZ38BVhS30RgHrTH7pfG0ZWs0CYgLtk9CHsQEFIwAHOBY67m6DDtjqujMrQklAXZXNhCRGA2m3KdVdsctVlohs9jYRs2Ls+fTXgqvFYevYwxub5n5aBLZprAdfacmNVTd4tp3cO1RvTHrBWzKF4lqOJ7t2vd5WVPwZ1cnN+5zvWQ8A/XY23It/phL7LxXCQrf5wA/ooPMUFBOMHAgMBAAGjgZowgZcwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMA8GA1UdEQQIMAaHBGUuRKYwHQYDVR0OBBYEFBDI8shDq10TtTuQayyEuIdjB5O2MEYGA1UdIwQ/MD2AFAtXNs/K1PsFpYp2lD9mwx2MWASqoR2kGzAZMRcwFQYDVQQDDA5BcHBnYXRlIFNEUCBDQYIGAYuuA1r4MA0GCSqGSIb3DQEBDQUAA4ICAQCjsjtYZQGlUTfNZpIM+fd5nB1cNuGsFhBgNEdP4mMN4PYySPVhmHUbPXxKvVEDJiswu6/+r/6j/W/pB4rWFDOvCLM2W60ObDzuB9cctroQZVHVTYL0EeLdlE9FlWfsq5QrNam/Xf0lg3hbSp9yxunrPhR4cz3DeBRpT95CleddUxTa9eqFeDBq7ZpT7UyYfI4R+PU5H5VHt+3U37qCsLNgvHxGiTIuG2+x7n2IDYBUNqFa1b4gCfIV04TGLoayqdt/RrZTCK9Mgzw3MfK1xifwOf5Bt+jiFitfLIuLnT+bcJdKDIOatbbX74YtzB8pVAS56PfNFFH5urtUYFy3pc4CcHfYr6BoMrPZReM+fyxxVAwS448qntM8aEmbkxU+QrIpNIz8N3ejBVwLkEfuQTADxb7yghZ7Z4/8swa5BuXOa9Rww8rzmXmVAo7qmQk9FHlCi9rc44CVz1XnU43arBTWka+Ln79+GesLTlcmzsC15qYob4a+fg8ZfJ8bpPAgRDYZn20x+pnAXBhKOotRZcwSPqXLL4o1FbrfsFYKzvYLlMoTL5SLa0oTWK9hCc0ReqEfEazTt6mcd4obpQy1BTT3cJ57NSVfNwn4fgaudSECxEk6ZkScqrAD28cWqLqWimGuDl7HRyiMDJwrkZLRplFn4eGqrC8taSfNCwQfsAb5RQ==",
+    "temporaryPrivateKey": "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"
+  },
+  "hostname": "101.46.68.166",
+  "controllers": [
+    {
+      "hostname": "appgate-controller-1.paymob.com",
+      "httpsPort": 443,
+      "spaKey": "acc6faecff1162bd8c8c654323e8ddd4e9a3a234d4481bfc010ef1b0ff59e66b",
+      "adminHostname": "appgate-controller-1.paymob.com",
+      "adminPort": 8443,
+      "certificateFingerprintSha1": "278227d28d9fe2dd491d85d0e5b9378a87f18fc9",
+      "certificateFingerprintSha256": "3d1751c2cd70778f722cbfa446f28ad9ec3f3190750fd87c30e3000fb76596a5"
+    },
+    {
+      "hostname": "appgate-controller-2.paymob.com",
+      "httpsPort": 443,
+      "spaKey": "cb23af531d6316375deb0e00455b001c11dc64bb623bdd273cd582a269fed431",
+      "adminHostname": "appgate-controller-2.paymob.com",
+      "adminPort": 8443,
+      "certificateFingerprintSha1": "22e2b5c06ebd243b19aa23188c22bd510a57e994",
+      "certificateFingerprintSha256": "8f25ce89a9f21a49688f9efc99833c643a0602e24e40fd746b5ebfb5713ae062"
+    },
+    {
+      "hostname": "193.122.88.197",
+      "httpsPort": 443,
+      "spaKey": "d32923acb4a419ea65b38e61242fb45f9cec6b45d177be24ca2ddf773e08987a",
+      "adminHostname": "193.122.88.197",
+      "adminPort": 8443,
+      "certificateFingerprintSha1": "7abe0dc149e35c2dd9a30afcea88fe6529b03106",
+      "certificateFingerprintSha256": "dc87bb7f07b58482beb1cf00126de357fbb8cecceaf0e7fabe6dae06b6c3c3be"
+    }
+  ],
+  "networking": {
+    "hosts": [
+      {
+        "hostname": "appgate-controller-2.paymob.com",
+        "address": "18.196.55.125"
+      },
+      {
+        "hostname": "appgate-controller-1.paymob.com",
+        "address": "107.22.176.28"
+      }
+    ],
+    "nics": [
+      {
+        "enabled": true,
+        "name": "eth0",
+        "ipv4": {
+          "dhcp": {
+            "enabled": false,
+            "dns": true,
+            "routers": true,
+            "ntp": false,
+            "mtu": false
+          },
+          "static": [
+            {
+              "address": "10.29.3.100",
+              "netmask": 32,
+              "snat": false
+            }
+          ]
+        },
+        "ipv6": {
+          "dhcp": {
+            "enabled": false,
+            "dns": false,
+            "routers": false,
+            "ntp": false,
+            "mtu": false
+          },
+          "static": []
+        }
+      }
+    ],
+    "dnsServers": [
+      "8.8.8.8"
+    ],
+    "dnsDomains": [],
+    "routes": []
+  },
+  "ntp": {
+    "servers": [
+      {
+        "hostname": "0.ubuntu.pool.ntp.org"
+      },
+      {
+        "hostname": "1.ubuntu.pool.ntp.org"
+      },
+      {
+        "hostname": "2.ubuntu.pool.ntp.org"
+      },
+      {
+        "hostname": "3.ubuntu.pool.ntp.org"
+      }
+    ]
+  },
+  "allowCustomization": false
+}
